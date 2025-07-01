@@ -18,7 +18,7 @@ MCP (Model Context Protocol) is an open protocol for standardizing how AI models
 ### 1. Clone or Download This Repository
 
 ### 2. Set Up Python Environment
-Open a terminal in the `mcp_learn` directory and run:
+Open a terminal in the `mcp` directory and run:
 
 ```sh
 python3 -m venv venv
